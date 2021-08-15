@@ -1,5 +1,4 @@
 const buttonLoading = document.querySelector('.btn-loading');
-const content = buttonLoading.textContent;
 let spinnerContainer = document.createElement('div');
 spinnerContainer.classList.add('spinner-container');
 let spinner = document.createElement('div');
